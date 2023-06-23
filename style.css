@@ -115,6 +115,8 @@ label {
   z-index: 3;
   display: none;
 }
+/* resposive style */
+
 @media (max-width: 960px) {
   header .navigation {
     display: none;
